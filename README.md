@@ -1,2 +1,2 @@
 # bondrepo
-own repository
+own repository for sharing code
